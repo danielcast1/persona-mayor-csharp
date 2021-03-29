@@ -1,0 +1,6 @@
+C:\Users\JUANd\Desktop\test\lib_busines_logic\bin\Release\lib_busines_logic.dll
+C:\Users\JUANd\Desktop\test\lib_busines_logic\bin\Release\lib_busines_logic.pdb
+C:\Users\JUANd\Desktop\test\lib_busines_logic\obj\Release\lib_busines_logic.csprojAssemblyReference.cache
+C:\Users\JUANd\Desktop\test\lib_busines_logic\obj\Release\lib_busines_logic.csproj.CoreCompileInputs.cache
+C:\Users\JUANd\Desktop\test\lib_busines_logic\obj\Release\lib_busines_logic.dll
+C:\Users\JUANd\Desktop\test\lib_busines_logic\obj\Release\lib_busines_logic.pdb

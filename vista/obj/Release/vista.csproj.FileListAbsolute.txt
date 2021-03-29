@@ -1,0 +1,13 @@
+C:\Users\JUANd\Desktop\test\vista\bin\Release\vista.exe.config
+C:\Users\JUANd\Desktop\test\vista\bin\Release\vista.exe
+C:\Users\JUANd\Desktop\test\vista\bin\Release\vista.pdb
+C:\Users\JUANd\Desktop\test\vista\bin\Release\lib_busines_logic.dll
+C:\Users\JUANd\Desktop\test\vista\bin\Release\lib_busines_logic.pdb
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.csprojAssemblyReference.cache
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.Form1.resources
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.Properties.Resources.resources
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.csproj.GenerateResource.cache
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.csproj.CoreCompileInputs.cache
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.csproj.CopyComplete
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.exe
+C:\Users\JUANd\Desktop\test\vista\obj\Release\vista.pdb
